@@ -1,0 +1,95 @@
+{
+  "legend": {
+    "arrangement": 0,
+    "autoUpdate": true,
+    "respectCurrentMapScale": true
+  },
+  "layerState": {
+    "featColl_3463": {
+      "selected": false
+    },
+    "Fichas_prueba_7773": {
+      "selected": false
+    },
+    "AGUAS_CONTINENTALES_3692": {
+      "selected": false
+    },
+    "AGRICULTURA_Y_GANADERIA_8356": {
+      "selected": false
+    },
+    "CLIMA_Y_ATMOSFERA_807": {
+      "selected": false
+    },
+    "ECONOMIA_8502": {
+      "selected": false
+    },
+    "ELECTRICIDAD_4247": {
+      "selected": false
+    },
+    "INSTALACIONES_Y_EDIFICACIONES_3506": {
+      "selected": false
+    },
+    "FLORA_Y_FAUNA_7908": {
+      "selected": false
+    },
+    "LIMITES_Y_FRONTERAS_752": {
+      "selected": false
+    },
+    "LOCALIZACIÓN_DIRECCIÓN_Y_RED_GEODÉSICA_5523": {
+      "selected": false
+    },
+    "MEDIO_AMBIENTE_4039": {
+      "selected": false
+    },
+    "PLANIFICACION_Y_CATASTRO_7292": {
+      "selected": false
+    },
+    "SALUD_2415": {
+      "selected": false
+    },
+    "SOCIEDAD_9394": {
+      "selected": false
+    },
+    "TRANSPORTE_524": {
+      "selected": false
+    },
+    "VUELOS_GEOSUPPORT_2020_7996": {
+      "selected": false
+    },
+    "LIMITES_Y_FRONTERAS_752_0": {
+      "selected": true
+    },
+    "LIMITES_Y_FRONTERAS_752_1": {
+      "selected": true
+    },
+    "LIMITES_Y_FRONTERAS_752_2": {
+      "selected": true
+    },
+    "LIMITES_Y_FRONTERAS_752_3": {
+      "selected": true
+    },
+    "LIMITES_Y_FRONTERAS_752_4": {
+      "selected": true
+    },
+    "LIMITES_Y_FRONTERAS_752_5": {
+      "selected": true
+    },
+    "LIMITES_Y_FRONTERAS_752_6": {
+      "selected": true
+    },
+    "LIMITES_Y_FRONTERAS_752_7": {
+      "selected": true
+    },
+    "LIMITES_Y_FRONTERAS_752_8": {
+      "selected": true
+    },
+    "LIMITES_Y_FRONTERAS_752_9": {
+      "selected": true
+    },
+    "LIMITES_Y_FRONTERAS_752_10": {
+      "selected": false
+    }
+  },
+  "syncWithWebmap": false,
+  "showLegendForBasemap": false
+}

@@ -1,0 +1,340 @@
+{
+  "theme": {
+    "name": "DartTheme",
+    "styles": [
+      "pink",
+      "default",
+      "purple",
+      "blue",
+      "turquoise",
+      "green",
+      "orange",
+      "red"
+    ],
+    "version": "2.16",
+    "sharedTheme": {
+      "useHeader": false,
+      "useLogo": false,
+      "isPortalSupport": true
+    },
+    "customStyles": {
+      "mainBackgroundColor": "#eb6003"
+    }
+  },
+  "portalUrl": "http://sigte.maps.arcgis.com",
+  "appId": "",
+  "authorizedCrossOriginDomains": [],
+  "title": "<div class=\"attribute-custom-style\">WebMapping SIGTE 2.0</div>",
+  "subtitle": "",
+  "keepAppState": true,
+  "logo": "images/logo.png",
+  "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
+  "links": [],
+  "widgetOnScreen": {
+    "widgets": [
+      {
+        "uri": "themes/DartTheme/widgets/DartController/Widget",
+        "position": {
+          "left": 0,
+          "right": 0,
+          "bottom": 36,
+          "relativeTo": "map"
+        },
+        "version": "2.16",
+        "id": "themes_DartTheme_widgets_DartController_Widget_20",
+        "name": "DartController"
+      },
+      {
+        "uri": "widgets/OverviewMap/Widget",
+        "visible": false,
+        "position": {
+          "right": 0,
+          "top": 0,
+          "relativeTo": "map"
+        },
+        "version": "2.16",
+        "id": "widgets_OverviewMap_Widget_21",
+        "name": "OverviewMap",
+        "config": "configs/OverviewMap/config_widgets_OverviewMap_Widget_21.json"
+      },
+      {
+        "uri": "widgets/Scalebar/Widget",
+        "position": {
+          "left": 10,
+          "bottom": 1,
+          "zIndex": 100,
+          "relativeTo": "map"
+        },
+        "version": "2.16",
+        "id": "widgets_Scalebar_Widget_22",
+        "name": "Scalebar",
+        "config": "configs/Scalebar/config_widgets_Scalebar_Widget_22.json"
+      },
+      {
+        "uri": "widgets/Coordinate/Widget",
+        "visible": false,
+        "position": {
+          "right": 10,
+          "bottom": 9,
+          "zIndex": 102,
+          "relativeTo": "map"
+        },
+        "version": "2.16",
+        "id": "widgets_Coordinate_Widget_23",
+        "name": "Coordinate"
+      },
+      {
+        "uri": "widgets/AttributeTable/Widget",
+        "visible": false,
+        "version": "2.16",
+        "position": {
+          "relativeTo": "browser"
+        },
+        "id": "widgets_AttributeTable_Widget_24",
+        "name": "AttributeTable"
+      },
+      {
+        "uri": "widgets/Splash/Widget",
+        "position": {
+          "relativeTo": "browser"
+        },
+        "version": "2.16",
+        "id": "widgets_Splash_Widget_25",
+        "name": "Splash",
+        "config": "configs/Splash/config_widgets_Splash_Widget_25.json"
+      },
+      {
+        "uri": "widgets/FullScreen/Widget",
+        "visible": false,
+        "position": {
+          "right": 8,
+          "bottom": 144,
+          "relativeTo": "map"
+        },
+        "version": "2.16",
+        "id": "widgets_FullScreen_Widget_26",
+        "name": "FullScreen"
+      }
+    ],
+    "panel": {
+      "uri": "jimu/OnScreenWidgetPanel",
+      "position": {
+        "relativeTo": "map"
+      }
+    }
+  },
+  "map": {
+    "3D": false,
+    "2D": true,
+    "position": {
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    },
+    "itemId": "bb8363b86dab49e984cf237c7782b820",
+    "mapOptions": {
+      "extent": {
+        "xmin": -7943191.497632126,
+        "ymin": -4117599.311092765,
+        "xmax": -7769526.56936814,
+        "ymax": -4005848.375739794,
+        "spatialReference": {
+          "wkid": 102100
+        }
+      }
+    },
+    "id": "map",
+    "portalUrl": "http://sigte.maps.arcgis.com",
+    "mapRefreshInterval": {
+      "useWebMapRefreshInterval": true
+    }
+  },
+  "widgetPool": {
+    "panel": {
+      "uri": "themes/DartTheme/panels/DartPanel/Panel",
+      "position": {
+        "relativeTo": "map"
+      }
+    },
+    "widgets": [
+      {
+        "name": "Capas CODELCO",
+        "version": "2.4",
+        "uri": "widgets/LayerGroups/Widget",
+        "index": 2,
+        "id": "widgets_LayerGroups_Widget_40",
+        "label": "Capas SIGTE"
+      },
+      {
+        "name": "Bookmark",
+        "version": "2.16",
+        "uri": "widgets/Bookmark/Widget",
+        "config": "configs/Bookmark/config_widgets_Bookmark_Widget_28.json",
+        "index": 3,
+        "id": "widgets_Bookmark_Widget_28"
+      },
+      {
+        "uri": "widgets/Legend/Widget",
+        "version": "2.16",
+        "id": "widgets_Legend_Widget_18",
+        "name": "Legend",
+        "index": 4,
+        "config": "configs/Legend/config_widgets_Legend_Widget_18.json"
+      },
+      {
+        "uri": "widgets/ZoomSlider/Widget",
+        "isPreconfiguredInTheme": true,
+        "id": "widgets_ZoomSlider_Widget_27",
+        "name": "ZoomSlider",
+        "version": "2.16",
+        "position": {
+          "relativeTo": "map"
+        },
+        "index": 5
+      },
+      {
+        "name": "eDraw",
+        "version": "2.8.1",
+        "uri": "widgets/Draw/Widget",
+        "config": "configs/eDraw/config_widgets_Draw_Widget_29.json",
+        "index": 6,
+        "id": "widgets_Draw_Widget_29"
+      },
+      {
+        "name": "AddData",
+        "version": "2.16",
+        "uri": "widgets/AddData/Widget",
+        "index": 7,
+        "id": "widgets_AddData_Widget_38",
+        "config": "configs/AddData/config_widgets_AddData_Widget_38.json"
+      },
+      {
+        "name": "BasemapGallery",
+        "version": "2.16",
+        "uri": "widgets/BasemapGallery/Widget",
+        "config": "configs/BasemapGallery/config_widgets_BasemapGallery_Widget_30.json",
+        "index": 8,
+        "id": "widgets_BasemapGallery_Widget_30"
+      },
+      {
+        "name": "Print",
+        "version": "2.16",
+        "uri": "widgets/Print/Widget",
+        "config": "configs/Print/config_widgets_Print_Widget_31.json",
+        "index": 9,
+        "id": "widgets_Print_Widget_31"
+      },
+      {
+        "name": "CoordinateConversion",
+        "version": "2.16",
+        "IsController": false,
+        "uri": "widgets/CoordinateConversion/Widget",
+        "index": 10,
+        "id": "widgets_CoordinateConversion_Widget_35",
+        "config": "configs/CoordinateConversion/config_widgets_CoordinateConversion_Widget_35.json"
+      },
+      {
+        "name": "Measurement",
+        "version": "2.16",
+        "uri": "widgets/Measurement/Widget",
+        "config": "configs/Measurement/config_widgets_Measurement_Widget_44.json",
+        "index": 11,
+        "id": "widgets_Measurement_Widget_44"
+      },
+      {
+        "uri": "widgets/LayerList/Widget",
+        "version": "2.16",
+        "id": "widgets_LayerList_Widget_19",
+        "name": "LayerList",
+        "index": 12,
+        "label": "Capas DET",
+        "icon": "configs\\LayerList\\icon_widgets_LayerList_Widget_19.jpeg",
+        "config": "configs/LayerList/config_widgets_LayerList_Widget_19.json"
+      },
+      {
+        "uri": "widgets/LayerList2/Widget",
+        "version": "2.16",
+        "id": "widgets_LayerList2_Widget_41",
+        "name": "LayerList2",
+        "index": 13,
+        "label": "Capas Bases",
+        "icon": "configs\\LayerList2\\icon_widgets_LayerList2_Widget_41.jpeg",
+        "config": "configs/LayerList2/config_widgets_LayerList2_Widget_41.json"
+      },
+      {
+        "uri": "widgets/LayerList3/Widget",
+        "version": "2.16",
+        "id": "widgets_LayerList3_Widget_42",
+        "name": "LayerList3",
+        "index": 14,
+        "label": "Imágenes Satelitales / Drone",
+        "icon": "configs\\LayerList3\\icon_widgets_LayerList3_Widget_42.jpeg",
+        "config": "configs/LayerList3/config_widgets_LayerList3_Widget_42.json"
+      },
+      {
+        "name": "Conversor de coordenadas mina",
+        "version": "2.4",
+        "uri": "widgets/Report/Widget",
+        "index": 15,
+        "id": "widgets_Report_Widget_37",
+        "icon": "configs\\Report\\icon_widgets_Report_Widget_37.png"
+      },
+      {
+        "name": "ElevationProfile",
+        "version": "2.14",
+        "uri": "widgets/ElevationProfile/Widget",
+        "index": 16,
+        "id": "widgets_ElevationProfile_Widget_41",
+        "config": "configs/ElevationProfile/config_widgets_ElevationProfile_Widget_41.json"
+      },
+      {
+        "name": "GridOverlay",
+        "version": "2.16",
+        "uri": "widgets/GridOverlay/Widget",
+        "index": 17,
+        "id": "widgets_GridOverlay_Widget_32"
+      },
+      {
+        "name": "About",
+        "version": "2.16",
+        "uri": "widgets/About/Widget",
+        "config": "configs/About/config_widgets_About_Widget_43.json",
+        "index": 18,
+        "id": "widgets_About_Widget_43",
+        "openAtStart": false
+      }
+    ],
+    "groups": []
+  },
+  "loadingPage": {
+    "backgroundColor": "#eb6003",
+    "backgroundImage": {
+      "visible": false,
+      "uri": "configs/loading/images/background.jpeg",
+      "width": 800,
+      "height": 600
+    },
+    "loadingGif": {
+      "visible": true,
+      "uri": "configs/loading/images/loading.gif",
+      "width": 400,
+      "height": 400
+    }
+  },
+  "wabVersion": "2.16",
+  "isTemplateApp": true,
+  "isWebTier": false,
+  "httpProxy": {
+    "useProxy": true,
+    "alwaysUseProxy": false,
+    "url": "",
+    "rules": []
+  },
+  "dataSource": {
+    "dataSources": {},
+    "settings": {}
+  },
+  "logoAlt": "",
+  "logoLink": ""
+}

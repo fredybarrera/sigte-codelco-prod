@@ -1,0 +1,9 @@
+{
+  "serviceURL": "https://sigte.codelco.cl/image/rest/services/Geoprocessing/PRINT_SIGTE/GPServer/Export%20Web%20Map",
+  "defaultTitle": "Titulo Cartografía",
+  "defaultAuthor": "SIGTE",
+  "defaultCopyright": "Codelco Chile - División El Teniente\nGerencia de Sustentabilidad y Asuntos Externos\nDirección de Permisos y Proyectos Sustentabilidad\nUnidad de Gestión Territorial - SIGTE 2020",
+  "defaultFormat": "JPG",
+  "defaultLayout": "A4_rev2",
+  "copyrightEditable": true
+}

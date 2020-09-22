@@ -1,0 +1,55 @@
+<div id="container-coordinate-converter">
+	<div class="inputcontainer">
+		<table cellspacing="0" cellpadding="0" style="border: none; margin-bottom: -13px;">
+			<thead>
+				<tr>
+					<td style="border: none;">
+						<label for="fmina_lon" class="firstFocusNode">Coordenada este mina (x)</label>
+					</td>
+					<td style="border: none;">
+						<label for="fmina_lat">Coordenada norte mina (y)</label><br>
+					</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td style="border: none;">
+						<input tabindex="3" id="mina_lon" class="input-custom" type="number" placeholder="Ej. 813,67" required>
+					</td>
+					<td style="border: none;">
+						<input tabindex="4" id="mina_lat" class="input-custom" type="number" placeholder="Ej. 43,2" required>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<span style="border: none;font-style: italic;font-size: 11px;font-weight: initial;margin-left: 7px;">
+			* Ingresar valores con coma (,)
+		</span>
+	</div>
+	<br/>
+	<center>
+		<div tabindex="5" class="jimu-btn" data-dojo-attach-event="onclick:_onBtnConvertClicked">Convertir</div>
+	</center>
+	<br/>
+	<div class="inputcontainer">
+		<table class="table-mina" id="table-mina">
+			<thead style="background-color:#CF0000;color:white;">
+				<tr>
+					<td>Este Mina (X)</td>
+					<td>Norte Mina (Y)</td>
+					<td>UTM WGS 84 (Huso, X, Y)</td>
+					<td>Este PSAD 56 (X)</td>
+					<td>Norte PSAD 56 (Y)</td>
+					<td>Este WGS 84 (Latitud)</td>
+					<td>Norte WGS 84 (Longitud)</td>
+				</tr>
+			</thead>
+			<tbody id="tbody-container-coordinates"></tbody>
+		</table>
+	</div>
+	<br />
+	<center>
+		<div tabindex="5" class="jimu-btn" data-dojo-attach-event="onclick:_onBtnCleanClicked">Limpiar</div>
+		<div tabindex="5" class="jimu-btn" data-dojo-attach-event="onclick:_onBtnExportClicked">Exportar</div>
+	</center>
+</div>

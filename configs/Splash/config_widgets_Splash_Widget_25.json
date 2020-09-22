@@ -1,0 +1,34 @@
+{
+  "splash": {
+    "splashContent": "<div><style>\n#cf {\n    position:relative; \n    margin:0 auto;\n}\n#cf img {\n    position:absolute;\n    left:0;\n}\n #cf img {\n    -webkit-animation-name: cfFadeInOut;\n    -webkit-animation-timing-function: ease-in-out;\n    -webkit-animation-iteration-count: infinite;\n    -webkit-animation-duration: 42s;\n    -moz-animation-name: cfFadeInOut;\n    -moz-animation-timing-function: ease-in-out;\n    -moz-animation-iteration-count: infinite;\n    -moz-animation-duration: 42s;\n    -o-animation-name: cfFadeInOut;\n    -o-animation-timing-function: ease-in-out;\n    -o-animation-iteration-count: infinite;\n    -o-animation-duration: 42s;\n    animation-name: cfFadeInOut;\n    animation-timing-function: ease-in-out;\n    animation-iteration-count: infini|te;\n    animation-duration: 42s;\n}\n#cf img:nth-of-type(1) {\n    -webkit-animation-delay: 36s;\n    -moz-animation-delay: 36s;\n    -o-animation-delay: 36s;\n    animation-delay: 36s;\n}\n#cf img:nth-of-type(2) {\n    animation-delay: 30s;\n    -moz-animation-delay: 30s;\n    -webkit-animation-delay: 30s;\n    -o-animation-delay: 30s;\n    \n}\n#cf img:nth-of-type(3) {\n    animation-delay: 24s;\n    -moz-animation-delay: 24s;\n    -webkit-animation-delay: 24s;\n    -o-animation-delay: 24s; \n}\n#cf img:nth-of-type(4) {\n    animation-delay: 18s;\n    -moz-animation-delay: 18s;\n    -webkit-animation-delay: 18s;\n    -o-animation-delay: 18s;\n}\n#cf img:nth-of-type(5) {\n    animation-delay: 12s;\n    -moz-animation-delay: 12s;\n    -webkit-animation-delay: 12s;\n    -o-animation-delay: 12s;\n}\n#cf img:nth-of-type(6) {\n    animation-delay: 6s; \n    -moz-animation-delay: 6s;\n    -webkit-animation-delay: 6s;\n    -o-animation-delay: 6s;\n}\n#cf img:nth-of-type(7) {\n    animation-delay: 0s; \n    -moz-animation-delay: 0s;\n    -webkit-animation-delay: 0s;\n    -o-animation-delay: 0s;\n}\n@-webkit-keyframes cfFadeInOut {\n    0% {\n        opacity:1;\n    }\n    17% {\n        opacity:1;\n    }\n    25% {\n        opacity:0;\n    }\n    92% {\n        opacity:0;\n    }\n    100% {\n        opacity:1;\n    }\n}\n    \n@-moz-keyframes cfFadeInOut {\n    0% {\n        opacity:1;\n    }\n    17% {\n        opacity:1;\n    }\n    25% {\n        opacity:0;\n    }\n    92% {\n        opacity:0;\n    }\n    100% {\n        opacity:1;\n    }\n}\n@-o-keyframes cfFadeInOut {\n    0% {\n        opacity:1;\n    }\n    17% {\n        opacity:1;\n    }\n    25% {\n        opacity:0;\n    }\n    92% {\n        opacity:0;\n    }\n    100%{\n        opacity:1;\n    }\n}\n@keyframes cfFadeInOut {\n    0% {\n        opacity:1;\n    }\n    17% {\n        opacity:1;\n    }\n    25% {\n        opacity:0;\n    }\n    92% {\n        opacity:0;\n    }\n    100% {\n        opacity:1;\n    }\n}\n</style>\n<div id=\"cf\" style=\"-webkit-border-radius:0 0 10px 10px; -moz-border-radius:0 0 10px 10px; -o-border-radius:0 0 10px 10px; border-radius:0 0 10px 10px\">\n        \t<img alt=\"\" class=\"img1\" src=\"http://tevmappargis01/banner/banner-1.jpg\" style=\"text-align: center; width: 480px; font-family: futura; height: 175px; border-radius: 0px 0px 10px 10px;\" /> \n\t\t<img alt=\"\" class=\"img2\" src=\"http://tevmappargis01/sigte-banner/banner-2.jpg\" style=\"text-align: center; width: 480px; font-family: futura; height: 175px; border-radius: 0px 0px 10px 10px;\" /> \n\t\t<img alt=\"\" class=\"img3\" src=\"http://tevmappargis01/sigte-banner/banner-3.jpg\" style=\"text-align: center; width: 480px; font-family: futura; height: 175px; border-radius: 0px 0px 10px 10px;\" /> \n\t\t<img alt=\"\" class=\"img4\" src=\"http://tevmappargis01/sigte-banner/banner-4.jpg\" style=\"text-align: center; width: 480px; font-family: futura; height: 175px; border-radius: 0px 0px 10px 10px;\" /> \n\t\t<img alt=\"\" class=\"img5\" src=\"http://tevmappargis01/sigte-banner/banner-5.jpg\" style=\"text-align: center; width: 480px; font-family: futura; height: 175px; border-radius: 0px 0px 10px 10px;\" /> \n\t\t<img alt=\"\" class=\"img6\" src=\"http://tevmappargis01/sigte-banner/banner-6.jpg\" style=\"text-align: center; width: 480px; font-family: futura; height: 175px; border-radius: 0px 0px 10px 10px;\" />\n\t\t<img alt=\"\" class=\"img6\" src=\"http://tevmappargis01/sigte-banner/banner-7.jpg\" style=\"text-align: center; width: 480px; font-family: futura; height: 175px; border-radius: 0px 0px 10px 10px;\" />\n</div></div><div id=\"cf\" style=\"text-align: center; border-radius: 0px 0px 10px 10px;\"><br /></div><div id=\"cf\" style=\"text-align: center; border-radius: 0px 0px 10px 10px;\"><br /></div><div id=\"cf\" style=\"text-align: center; border-radius: 0px 0px 10px 10px;\"><br /></div><div id=\"cf\" style=\"text-align: center; border-radius: 0px 0px 10px 10px;\"><br /></div><div id=\"cf\" style=\"text-align: center; border-radius: 0px 0px 10px 10px;\"><br /></div><div id=\"cf\" style=\"text-align: center; border-radius: 0px 0px 10px 10px;\"><br /></div><div id=\"cf\" style=\"text-align: center; border-radius: 0px 0px 10px 10px;\"><br /></div><div id=\"cf\" style=\"text-align: center; border-radius: 0px 0px 10px 10px;\"><br /></div><div id=\"cf\" style=\"text-align: center; border-radius: 0px 0px 10px 10px;\"><br /></div><div id=\"cf\" style=\"text-align: center; border-radius: 0px 0px 10px 10px;\"><br /></div><div id=\"cf\" style=\"text-align: center; border-radius: 0px 0px 10px 10px;\"><br /></div><div id=\"cf\" style=\"text-align: center; border-radius: 0px 0px 10px 10px;\"><br /></div><div id=\"cf\" style=\"text-align: center; border-radius: 0px 0px 10px 10px;\"><br /></div><div id=\"cf\" style=\"text-align: center; border-radius: 0px 0px 10px 10px;\">Bienvenidos al nuevo Webmapping SIGTE 2.0</div><p style=\"text-align: justify; border-radius: 0px 0px 10px 10px;\">Esta herramienta le permitirá poder navegar en la información que gestiona el SIGTE, tener acceso a herramientas geográficas y obtener mapas para su uso dentro de la División El Teniente. </p>",
+    "requireConfirm": false,
+    "confirm": {
+      "text": "",
+      "color": "#ffffff",
+      "transparency": 0
+    },
+    "showOption": true,
+    "confirmEverytime": true,
+    "contentVertical": "middle",
+    "size": {
+      "mode": "wh",
+      "wh": {
+        "w": 600,
+        "h": 480
+      }
+    },
+    "background": {
+      "mode": "color",
+      "image": null,
+      "type": "fill",
+      "fileName": "No%20se%20ha%20seleccionado%20ning%C3%BAn%20archivo",
+      "color": "#eb6003",
+      "transparency": 0.11
+    },
+    "button": {
+      "color": "#518dca",
+      "transparency": 0,
+      "text": "Aceptar"
+    }
+  }
+}

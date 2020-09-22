@@ -1,0 +1,873 @@
+{
+  "showTitle": true,
+  "showBasemap": false,
+  "showLegend": true,
+  "expandAllLayersByDefault": false,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "SetVisibilityRange": true,
+    "EnableOrDisablePopup": true,
+    "ControlLabels": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": true,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "GLACIARES_3210": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_0": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_1": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_2": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_3": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_4": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_5": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_6": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_7": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_8": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_9": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_10": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_11": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_12": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_13": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_14": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_15": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_16": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_17": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_18": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_19": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_20": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_21": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_22": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_23": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_24": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_25": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_26": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_27": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_28": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_29": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_30": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_31": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_32": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_33": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_34": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_35": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_36": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_37": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_38": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_39": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_40": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_41": {
+      "display": true
+    },
+    "INFRAESTRUCTURA_DET_7869_42": {
+      "display": true
+    },
+    "DET_EQUIPAMIENTO_9570": {
+      "display": true
+    },
+    "DET_EQUIPAMIENTO_9570_0": {
+      "display": true
+    },
+    "DET_EQUIPAMIENTO_9570_1": {
+      "display": true
+    },
+    "DET_EQUIPAMIENTO_9570_2": {
+      "display": true
+    },
+    "DET_EQUIPAMIENTO_9570_3": {
+      "display": true
+    },
+    "DET_EQUIPAMIENTO_9570_4": {
+      "display": true
+    },
+    "DET_EQUIPAMIENTO_9570_5": {
+      "display": true
+    },
+    "DET_EQUIPAMIENTO_9570_6": {
+      "display": true
+    },
+    "DET_EQUIPAMIENTO_9570_7": {
+      "display": true
+    },
+    "DET_EQUIPAMIENTO_9570_8": {
+      "display": true
+    },
+    "DET_EQUIPAMIENTO_9570_9": {
+      "display": true
+    },
+    "DET_EQUIPAMIENTO_9570_10": {
+      "display": true
+    },
+    "DET_EQUIPAMIENTO_9570_11": {
+      "display": true
+    },
+    "DET_EQUIPAMIENTO_9570_12": {
+      "display": true
+    },
+    "DET_EQUIPAMIENTO_9570_13": {
+      "display": true
+    },
+    "CONDUCCION_RELAVES_7729": {
+      "display": true
+    },
+    "CONDUCCION_RELAVES_7729_1": {
+      "display": true
+    },
+    "CONDUCCION_RELAVES_7729_2": {
+      "display": true
+    },
+    "CONDUCCION_RELAVES_7729_3": {
+      "display": true
+    },
+    "CONDUCCION_RELAVES_7729_4": {
+      "display": true
+    },
+    "CONDUCCION_RELAVES_7729_5": {
+      "display": true
+    },
+    "CONDUCCION_RELAVES_7729_6": {
+      "display": true
+    },
+    "CONDUCCION_RELAVES_7729_7": {
+      "display": true
+    },
+    "Fichas_prueba_7773_50": {
+      "display": false
+    },
+    "Fichas_prueba_7773_50_0": {
+      "display": true
+    },
+    "Fichas_prueba_7773": {
+      "display": true
+    },
+    "Fichas_prueba_7773_0": {
+      "display": true
+    },
+    "AGUAS_CONTINENTALES_3692": {
+      "display": false
+    },
+    "AGUAS_CONTINENTALES_3692_0": {
+      "display": true
+    },
+    "AGUAS_CONTINENTALES_3692_1": {
+      "display": true
+    },
+    "AGUAS_CONTINENTALES_3692_2": {
+      "display": true
+    },
+    "AGUAS_CONTINENTALES_3692_3": {
+      "display": true
+    },
+    "AGUAS_CONTINENTALES_3692_4": {
+      "display": true
+    },
+    "AGUAS_CONTINENTALES_3692_5": {
+      "display": true
+    },
+    "AGUAS_CONTINENTALES_3692_6": {
+      "display": true
+    },
+    "AGUAS_CONTINENTALES_3692_7": {
+      "display": true
+    },
+    "AGUAS_CONTINENTALES_3692_8": {
+      "display": true
+    },
+    "AGUAS_CONTINENTALES_3692_9": {
+      "display": true
+    },
+    "AGUAS_CONTINENTALES_3692_10": {
+      "display": true
+    },
+    "AGUAS_CONTINENTALES_3692_11": {
+      "display": true
+    },
+    "AGUAS_CONTINENTALES_3692_12": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356": {
+      "display": false
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_0": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_1": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_2": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_3": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_4": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_5": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_6": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_7": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_8": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_9": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_10": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_11": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_12": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_13": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_14": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_15": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_16": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_17": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_18": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_19": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_20": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_21": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_22": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_23": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_24": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_25": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_26": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_27": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_28": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_29": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_30": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_31": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_32": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_33": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_34": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_35": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_36": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_37": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_38": {
+      "display": true
+    },
+    "AGRICULTURA_Y_GANADERIA_8356_39": {
+      "display": true
+    },
+    "CLIMA_Y_ATMOSFERA_807": {
+      "display": false
+    },
+    "CLIMA_Y_ATMOSFERA_807_0": {
+      "display": true
+    },
+    "CLIMA_Y_ATMOSFERA_807_1": {
+      "display": true
+    },
+    "CLIMA_Y_ATMOSFERA_807_2": {
+      "display": true
+    },
+    "CLIMA_Y_ATMOSFERA_807_3": {
+      "display": true
+    },
+    "CLIMA_Y_ATMOSFERA_807_4": {
+      "display": true
+    },
+    "CLIMA_Y_ATMOSFERA_807_5": {
+      "display": true
+    },
+    "CLIMA_Y_ATMOSFERA_807_6": {
+      "display": true
+    },
+    "CLIMA_Y_ATMOSFERA_807_7": {
+      "display": true
+    },
+    "CLIMA_Y_ATMOSFERA_807_8": {
+      "display": true
+    },
+    "CLIMA_Y_ATMOSFERA_807_9": {
+      "display": true
+    },
+    "CLIMA_Y_ATMOSFERA_807_10": {
+      "display": true
+    },
+    "ECONOMIA_8502": {
+      "display": false
+    },
+    "ECONOMIA_8502_0": {
+      "display": true
+    },
+    "ELECTRICIDAD_4247": {
+      "display": false
+    },
+    "ELECTRICIDAD_4247_0": {
+      "display": true
+    },
+    "ELECTRICIDAD_4247_1": {
+      "display": true
+    },
+    "ELECTRICIDAD_4247_2": {
+      "display": true
+    },
+    "ELECTRICIDAD_4247_3": {
+      "display": true
+    },
+    "ELECTRICIDAD_4247_4": {
+      "display": true
+    },
+    "ELECTRICIDAD_4247_5": {
+      "display": true
+    },
+    "ELECTRICIDAD_4247_6": {
+      "display": true
+    },
+    "ELECTRICIDAD_4247_7": {
+      "display": true
+    },
+    "ELECTRICIDAD_4247_8": {
+      "display": true
+    },
+    "ELECTRICIDAD_4247_9": {
+      "display": true
+    },
+    "ELECTRICIDAD_4247_10": {
+      "display": true
+    },
+    "ELECTRICIDAD_4247_11": {
+      "display": true
+    },
+    "ELECTRICIDAD_4247_12": {
+      "display": true
+    },
+    "ELECTRICIDAD_4247_13": {
+      "display": true
+    },
+    "INSTALACIONES_Y_EDIFICACIONES_3506": {
+      "display": false
+    },
+    "INSTALACIONES_Y_EDIFICACIONES_3506_0": {
+      "display": true
+    },
+    "INSTALACIONES_Y_EDIFICACIONES_3506_1": {
+      "display": true
+    },
+    "INSTALACIONES_Y_EDIFICACIONES_3506_2": {
+      "display": true
+    },
+    "INSTALACIONES_Y_EDIFICACIONES_3506_3": {
+      "display": true
+    },
+    "INSTALACIONES_Y_EDIFICACIONES_3506_4": {
+      "display": true
+    },
+    "INSTALACIONES_Y_EDIFICACIONES_3506_5": {
+      "display": true
+    },
+    "INSTALACIONES_Y_EDIFICACIONES_3506_6": {
+      "display": true
+    },
+    "FLORA_Y_FAUNA_7908": {
+      "display": false
+    },
+    "FLORA_Y_FAUNA_7908_0": {
+      "display": true
+    },
+    "FLORA_Y_FAUNA_7908_1": {
+      "display": true
+    },
+    "FLORA_Y_FAUNA_7908_2": {
+      "display": true
+    },
+    "FLORA_Y_FAUNA_7908_3": {
+      "display": true
+    },
+    "FLORA_Y_FAUNA_7908_4": {
+      "display": true
+    },
+    "FLORA_Y_FAUNA_7908_5": {
+      "display": true
+    },
+    "LIMITES_Y_FRONTERAS_752": {
+      "display": false
+    },
+    "LIMITES_Y_FRONTERAS_752_0": {
+      "display": true
+    },
+    "LIMITES_Y_FRONTERAS_752_1": {
+      "display": true
+    },
+    "LIMITES_Y_FRONTERAS_752_2": {
+      "display": true
+    },
+    "LIMITES_Y_FRONTERAS_752_3": {
+      "display": true
+    },
+    "LIMITES_Y_FRONTERAS_752_4": {
+      "display": true
+    },
+    "LIMITES_Y_FRONTERAS_752_5": {
+      "display": true
+    },
+    "LIMITES_Y_FRONTERAS_752_6": {
+      "display": true
+    },
+    "LIMITES_Y_FRONTERAS_752_7": {
+      "display": true
+    },
+    "LIMITES_Y_FRONTERAS_752_8": {
+      "display": true
+    },
+    "LIMITES_Y_FRONTERAS_752_9": {
+      "display": true
+    },
+    "LIMITES_Y_FRONTERAS_752_10": {
+      "display": true
+    },
+    "LOCALIZACIÓN_DIRECCIÓN_Y_RED_GEODÉSICA_5523": {
+      "display": false
+    },
+    "LOCALIZACIÓN_DIRECCIÓN_Y_RED_GEODÉSICA_5523_0": {
+      "display": true
+    },
+    "LOCALIZACIÓN_DIRECCIÓN_Y_RED_GEODÉSICA_5523_1": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039": {
+      "display": false
+    },
+    "MEDIO_AMBIENTE_4039_0": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_1": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_2": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_3": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_4": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_5": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_6": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_7": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_8": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_9": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_10": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_11": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_12": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_13": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_14": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_15": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_16": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_17": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_18": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_19": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_20": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_21": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_22": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_23": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_24": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_25": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_26": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_27": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_28": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_29": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_30": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_31": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_32": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_33": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_34": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_35": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_36": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_37": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_38": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_39": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_40": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_41": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_42": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_43": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_44": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_45": {
+      "display": true
+    },
+    "MEDIO_AMBIENTE_4039_46": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292": {
+      "display": false
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_0": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_1": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_2": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_3": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_4": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_5": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_6": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_7": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_8": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_9": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_10": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_11": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_12": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_13": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_14": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_15": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_16": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_17": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_18": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_19": {
+      "display": true
+    },
+    "PLANIFICACION_Y_CATASTRO_7292_20": {
+      "display": true
+    },
+    "SALUD_2415": {
+      "display": false
+    },
+    "SALUD_2415_0": {
+      "display": true
+    },
+    "SALUD_2415_1": {
+      "display": true
+    },
+    "SALUD_2415_2": {
+      "display": true
+    },
+    "SALUD_2415_3": {
+      "display": true
+    },
+    "SALUD_2415_4": {
+      "display": true
+    },
+    "SALUD_2415_5": {
+      "display": true
+    },
+    "SOCIEDAD_9394": {
+      "display": false
+    },
+    "SOCIEDAD_9394_0": {
+      "display": true
+    },
+    "SOCIEDAD_9394_1": {
+      "display": true
+    },
+    "SOCIEDAD_9394_2": {
+      "display": true
+    },
+    "SOCIEDAD_9394_3": {
+      "display": true
+    },
+    "SOCIEDAD_9394_4": {
+      "display": true
+    },
+    "SOCIEDAD_9394_5": {
+      "display": true
+    },
+    "SOCIEDAD_9394_6": {
+      "display": true
+    },
+    "SOCIEDAD_9394_7": {
+      "display": true
+    },
+    "SOCIEDAD_9394_8": {
+      "display": true
+    },
+    "SOCIEDAD_9394_9": {
+      "display": true
+    },
+    "SOCIEDAD_9394_10": {
+      "display": true
+    },
+    "SOCIEDAD_9394_11": {
+      "display": true
+    },
+    "SOCIEDAD_9394_12": {
+      "display": true
+    },
+    "SOCIEDAD_9394_13": {
+      "display": true
+    },
+    "SOCIEDAD_9394_14": {
+      "display": true
+    },
+    "SOCIEDAD_9394_15": {
+      "display": true
+    },
+    "SOCIEDAD_9394_16": {
+      "display": true
+    },
+    "TRANSPORTE_524": {
+      "display": false
+    },
+    "TRANSPORTE_524_0": {
+      "display": true
+    },
+    "TRANSPORTE_524_1": {
+      "display": true
+    },
+    "VUELOS_GEOSUPPORT_2020_7996": {
+      "display": false
+    }
+  }
+}
